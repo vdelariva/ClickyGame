@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  height: 300px;
+  margin-bottom: 0px;
+  padding: 180px;
+  text-align: center;
+  font-family: 'Alfa Slab One', cursive;
+  /* font-family: 'Rubik', sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  font-size: 3rem;
+  color: #666;
+  /* text-shadow: 5px 5px #fff; */
+  text-shadow: 4px 4px 4px #aaa;
+  /* text-decoration: underline; */
+  background-image: url("/assets/images/passportStamps.jpg");
+  background-size: 300px 300px;
+  /* color: rgb(222,157,80); */
+}
+h1 {
+  font-size: 4rem;
+}

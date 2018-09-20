@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Amsterdam",
+    "image": "./assets/images/amsterdam.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Cuba",
+    "image": "./assets/images/cuba.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Florence",
+    "image": "./assets/images/florence.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Hong Kong",
+    "image": "./assets/images/hong-kong.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Istanbul",
+    "image": "./assets/images/istanbul.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "London",
+    "image": "./assets/images/london.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Madrid",
+    "image": "./assets/images/madrid.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Moscow",
+    "image": "./assets/images/moscow.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "New York",
+    "image": "./assets/images/new-york.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Paris",
+    "image": "./assets/images/paris.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Shanghai",
+    "image": "./assets/images/shanghai.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Tokyo",
+    "image": "./assets/images/tokyo.jpeg"
+  }
+]

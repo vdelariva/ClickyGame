@@ -1,0 +1,13 @@
+/* Navbar */
+.navbar {
+  background-color: #666666;
+  min-height: 70px;
+  position: fixed;
+  width: 100%;
+  color: #fff;
+  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+  z-index: 10;
+}
+.navbar-brand {
+  color: rgb(222,157,80);
+}
