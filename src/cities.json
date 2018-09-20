@@ -26,8 +26,8 @@
   },
   {
     "id": 6,
-    "name": "London",
-    "image": "./assets/images/london.jpeg"
+    "name": "Australia",
+    "image": "./assets/images/australia.jpeg"
   },
   {
     "id": 7,
@@ -56,7 +56,7 @@
   },
   {
     "id": 12,
-    "name": "Tokyo",
-    "image": "./assets/images/tokyo.jpeg"
+    "name": "Africa",
+    "image": "./assets/images/africa.jpeg"
   }
 ]
