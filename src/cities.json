@@ -6,8 +6,8 @@
   },
   {
     "id": 2,
-    "name": "Cuba",
-    "image": "./assets/images/cuba.jpeg"
+    "name": "Havana",
+    "image": "./assets/images/havana.jpeg"
   },
   {
     "id": 3,
@@ -26,8 +26,8 @@
   },
   {
     "id": 6,
-    "name": "Australia",
-    "image": "./assets/images/australia.jpeg"
+    "name": "Sydney",
+    "image": "./assets/images/sydney.jpeg"
   },
   {
     "id": 7,
@@ -56,7 +56,7 @@
   },
   {
     "id": 12,
-    "name": "Africa",
-    "image": "./assets/images/africa.jpeg"
+    "name": "Cape Town",
+    "image": "./assets/images/cape-town.jpeg"
   }
 ]
