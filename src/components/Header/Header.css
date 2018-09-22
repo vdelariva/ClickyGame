@@ -8,7 +8,7 @@
   font-size: 3rem;
   color: #666;
   text-shadow: 4px 4px 4px #aaa;
-  background-image: url("/assets/images/passportStamps.jpg");
+  background-image: url("./passportStamps.jpg");
   background-size: 300px 300px;
 }
 h1 {
